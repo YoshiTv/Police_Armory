@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-author 'YB DEV / YoshiTv#4337' -- NON TOGLIETEMI I DIRITTI VI PREGO
+author 'YB DEV / YoshiTv#4337' 
 description 'Police Armory'
 
 shared_script {
