@@ -10,10 +10,10 @@ local options = {
         groups = 'polizia',
     },
 }
-local shopbuoni = { 
+local armamento = { 
     's_m_m_armoured_01'
 }
-exports.ox_target:addModel(shopbuoni, options)
+exports.ox_target:addModel(armamento, options)
 
 -- BLIP IN MAPPA -- 
 ydblip = AddBlipForCoord(454.0460, -980.0172, 30.6896, 90.4297)
