@@ -50,12 +50,12 @@ RegisterNetEvent('prendi:armamento', function()
             description = 'Hai Preso il tuo Armamento',
             type = 'success'
         })
-        Wait(60000)
+        Wait(60000) -- 60 secondi
         tempo = false
     else
         lib.notify({
             title = 'YD DEV',
-            description = 'Hai Già Preso il tuo Armamento testa di cazzo',
+            description = 'Hai Già Preso il tuo Armamento',
             type = 'error'
         })
     end
